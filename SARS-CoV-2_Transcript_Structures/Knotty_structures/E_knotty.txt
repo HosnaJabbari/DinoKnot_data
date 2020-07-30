@@ -1,0 +1,4 @@
+E Gene
+
+Seq: CAAAUUCACACAAUCGACGGUUCAUCCGGAGUUGUUAAUCCAGUAAUGGAACCAAUUUAUGAUGAACCGACGACGACUACUAGCGUGCCUUUGUAAGCACAAGCUGAUGAGUACGAACUUAUGUACUCAUUCGUUUCGGAAGAGACAGGUACGUUAAUAGUUAAUAGCGUACUUCUUUUUCUUGCUUUCGUGGUAUUCUUGCUAGUUACACUAGCCAUCCUUACUGCGCUUCGAUUGUGUGCGUACUGCUGCAAUAUUGUUAACGUGAGUCUUGUAAAACCUUCUUUUUACGUUUACUCUCGUGUUAAAAAUCUGAAUUCUUCUAGAGUUCCUGAUCUUCUGGUCUAAACGAACUAAAUAUUAUAUUAGUUUUUCUGUUUGGAACUUUAAUUUUAGCCAUG
+RES: ......((((((((((((((((((((...(((((....((((....))))..)))))...)))))))))...[[[........]]]........[[[[[.[[[[.[[[[[[[[[........]]]]]]]]].]]]].{{{{{{{{..{{{{{{{{{........}}}}}}}}}}}}}}}}}.]]]]].[[[[[[[.....[[[[[[...]]]]]]......]]]]]]]..)))))))))))..............(((.((((((((((...(((((((..[[[.)))))))......)))))))))).)))..]]]......[[[[[[[[[.[[[....(((.(((((.[[[[[[[........]]]]]]]....]]].]]]]]]]]]..))))))))..  -74.63
