@@ -16,7 +16,7 @@ This section contains:
 
 2. the VARNA visualizations of the dot-bracket interaction structures within the folder **\2_VARNA_Structure_Visualization**.
     - The interaction structures are visualized in linear view and the primer sequence is highlighted in red and the expected binding region is highlighted in green.  
-    - The sequence and dot-bracket structure from the DinoKnot output is input into VARNA to get the structure visualizations. 
+    - The sequence (Seq:) and dot-bracket structure (Result_0:) from the DinoKnot output is input into VARNA to get the structure visualizations. 
 
 3. the sequences of the forward and reverse primers of the primer-probe sets investigated in the file **3_SARS-CoV-2_qRT-PCR_primer_sequences.txt**.
 
