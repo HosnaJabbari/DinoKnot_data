@@ -52,7 +52,7 @@ Within the folder **\1_Primer_probe_binding_region** contains:
 
 Note: Both folders are organized with sub-folders labelled with the affected primer/probe. 
 - For example, the folder **\1_DinoKnot_Mutations_in_primer_binding_region\2019-nCoV-N1-P** contains the DinoKnot output for the interaction structure of the 2019-nCoV-N1-P probe with the reference genome within the *2019-nCoV-N1-P_reference_genome_NC_045512.2_DNA/DNA.txt* file and the mutated genome within the file *2019-nCoV-N1-P_C28,311T_mutation_DNA/DNA.txt*
-- For example, the folder **2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures\2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures** contains the VARNA interaction structure visualation to the reference genome in the file *2019_nCoV_N1-P.jpg* and the visualization of the mutated genome in the file *2019_nCoV-N1-P_28311C>T.jpg*. 
+- For example, the folder **2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures\2019-nCoV-N1-P** contains the VARNA interaction structure visualation to the reference genome in the file *2019_nCoV_N1-P.jpg* and the visualization of the mutated genome in the file *2019_nCoV-N1-P_28311C>T.jpg*. 
 - The reference genome data is present in each folder to be able to compare the mutation to the reference genome. 
 
 
