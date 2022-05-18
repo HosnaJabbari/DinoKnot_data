@@ -1,5 +1,5 @@
 # DinoKnot_data
-This folder contains all test data for DinoKnot
+This folder contains all test data for DinoKnot (https://github.com/HosnaJabbari/DinoKnot)
 
 
 This README and the corresponding data is organized in sections as presented in the Materials and Methods section of our paper.
