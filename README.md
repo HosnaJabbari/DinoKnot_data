@@ -9,7 +9,7 @@ This README and the corresponding data is organized in sections as presented in 
 
 This section contains:
 
-1. the output files containing the dot-bracket interaction structure predicted by DinoKnot within the folder **\1_DinoKnot_structures**.
+1. the output files containing the dot-bracket interaction structure predicted by DinoKnot within the folder **\1_DinoKnot_structures\reverse_primer_RNA_transcript_interaction**.
 
 2. the VARNA visualizations of the dot-bracket interaction structures within the folder **\2_VARNA_Structure_Visualization**.
     - The interaction structures are visualized in linear view and the primer sequence is highlighted in red and the expected binding region is highlighted in green.  
@@ -61,6 +61,17 @@ Within the folder **\2_Variants_of_Concern** contains:
 ### 3. Clinical report of variant causing N gene detection issues
 
 Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
+
+1. the DinoKnot predicted interaction structure in dot-bracket form of the CCDC-N-F primer with the variant strain (accession ID: EPI_ISL_1061414) in the file **CCDC-N-F_EPI_ISL_1061414_DinoKnot_output.txt**
+
+2. the VARNA interaction structure visualization of the CCDC-N-F primer with the variant strain (accession ID: EPI_ISL_1061414) in the file **CCDC-N-F_EPI_ISL_1061414_VARNA_Structure.png**.
+
+3.  the DinoKnot predicted interaction structure in dot-bracket form of the CCDC-N-P probe with the variant strain (accession ID: EPI_ISL_1061414) in the file **CCDC-N-P_EPI_ISL_1061414_DinoKnot_output(PROBE).txt**
+
+4.  the DinoKnot predicted interaction structure in dot-bracket form of the CCDC-N-R primer with the variant strain (accession ID: EPI_ISL_1061414) in the file **CCDC-N-R_EPI_ISL_1061414_DinoKnot_output(REVERSE).txt**
+
+5. the same data as #1-4 above but for the corresponding primer and probe with the SARS-CoV-2 reference genome (NC_045512.2) in the folder **\Reference_Genome_Comparison** to be able to compare the variant strain to the reference genome.
+
 
 
 
