@@ -26,7 +26,7 @@ This section contains:
 
 ## Comparing DinoKnot to RNAcofold
 
-Within the folder **\RNA_cofold_ViennaRNA-2.1.9h** contains:
+Within the folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.9h** contains:
 
 1. an Excel Spread Sheet containing the reverse primer along with the sequence input into RNAcofold, the output from RNAcofold of the interaction structure in dot-bracket form, and the MFE in the file **1_RNAcofold_input_output.xlsx**. 
 
@@ -37,11 +37,31 @@ Within the folder **\RNA_cofold_ViennaRNA-2.1.9h** contains:
 
 ## Mutations
 
-### Primer/probe binding region
+### 1. Primer/probe binding region
 
-### Variants of Concern
+Within the folder **\1_Primer_probe_binding_region** contains: 
 
-### Clinical report of variant causing N gene detection issues
+1. The output interaction structures of the corresponding primer/probe and the mutated SARS-CoV-2 gene area predicted by DinoKnot in dot-bracket form within the folder **\1_DinoKnot_Mutations_in_primer_binding_region**. 
+
+2. The interaction structure visualizations of the corresponding primer/probe and the mutated SARS-CoV-2 gene area within the folder  **\2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures**. 
+
+
+Note: Both folders are organized with sub-folders labelled with the affected primer/probe. 
+- For example, the folder **\1_DinoKnot_Mutations_in_primer_binding_region\2019-nCoV-N1-P** contains the DinoKnot output for the interaction structure of the 2019-nCoV-N1-P probe with the reference genome within the *2019-nCoV-N1-P_reference_genome_NC_045512.2_DNA/DNA.txt* file and the mutated genome within the file *2019-nCoV-N1-P_C28,311T_mutation_DNA/DNA.txt*
+- For example, the folder **2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures\2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures** contains the VARNA interaction structure visualation to the reference genome in the file *2019_nCoV_N1-P.jpg* and the visualization of the mutated genome in the file *2019_nCoV-N1-P_28311C>T.jpg*. 
+- The reference genome data is present in each folder to be able to compare the mutation to the reference genome. 
+
+
+### 2. Variants of Concern
+
+Within the folder **2_Variants_of_Concern** contains: 
+
+1. The interaction structure of the reverse primer and the gene area transcript of the variant of concern with mutations in this area predicted by DinoKnot in dot-bracket form the folder **DinoKnot_Structures**. This folder contains subfolders for each of the variants of concern studied. 
+
+### 3. Clinical report of variant causing N gene detection issues
+
+Within the folder **3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
+
 
 
 
@@ -50,4 +70,4 @@ Within the folder **\RNA_cofold_ViennaRNA-2.1.9h** contains:
 This folder contains data presented in the IEEE ICHI 2021 conference preceeding paper (preliminary results to our study not presented in the journal article).
 
 
-The folder **\GISAID_mutation_Screenshot_hCoV-19_app** contains screenshots of the GISAID hCoV-19-app on the frequency of mutations in the areas surrounding the primer binding regions of the reverse priemrs, along with the entire genome from the dates July 23, 2020 and March 28 2021. 
+The folder **\GISAID_mutation_Screenshot_hCoV-19_app** contains screenshots of the GISAID hCoV-19-app on the frequency of mutations in the areas surrounding the primer binding regions of the reverse primers, along with the entire genome from the dates July 23, 2020 and March 28 2021. 
