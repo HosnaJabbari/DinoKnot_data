@@ -2,7 +2,7 @@
 This folder contains all test data for DinoKnot
 
 
-This README is organized in sections as presented in the paper.
+This README and the corresponding data is organized in sections as presented in the Materials and Methods section of our paper.
 
 
 ## qRT-PCR interaction structures
