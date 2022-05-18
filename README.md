@@ -54,13 +54,13 @@ Note: Both folders are organized with sub-folders labelled with the affected pri
 
 ### 2. Variants of Concern
 
-Within the folder **2_Variants_of_Concern** contains: 
+Within the folder **\2_Variants_of_Concern** contains: 
 
 1. The interaction structure of the reverse primer and the gene area transcript of the variant of concern with mutations in this area predicted by DinoKnot in dot-bracket form the folder **DinoKnot_Structures**. This folder contains subfolders for each of the variants of concern studied. 
 
 ### 3. Clinical report of variant causing N gene detection issues
 
-Within the folder **3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
+Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
 
 
 
