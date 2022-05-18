@@ -82,8 +82,8 @@ Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issue
 
 ## Conference Paper
 
-This folder contains data presented in the IEEE ICHI 2021 conference preceeding paper: https://ieeexplore.ieee.org/document/9565741 
-These are preliminary results to our study that are not presented in the journal article.
+This folder contains data presented in the IEEE ICHI 2021 conference preceeding paper that are not presented in the journal article: https://ieeexplore.ieee.org/document/9565741 
+(The conference paper contains preliminary results to our study)
 
 
 The folder **\GISAID_mutation_Screenshot_hCoV-19_app** contains screenshots of the GISAID hCoV-19-app on the frequency of mutations in the areas surrounding the primer binding regions of the reverse primers, along with the entire genome from the dates July 23, 2020 and March 28 2021. 
