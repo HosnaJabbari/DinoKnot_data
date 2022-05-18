@@ -10,13 +10,13 @@ This README and the corresponding data is organized in sections as presented in 
 This section contains:
 
 1. the output files containing the dot-bracket interaction structure predicted by DinoKnot within the folder **\1_DinoKnot_structures\reverse_primer_RNA_transcript_interaction**.
-    -The sequence of the interaction structure is located on the 5th line from the bottom of the .txt file (Seq:) (eg. line 401 of 2019-nCoV-N1-R_reference_genome_NC_045512.2.txt) 
-    -The structure of the interaction structure in dot-bracket form is located on the 3rd line from the bottom of the .txt file (Result_0:) (eg. line 403 of 2019-nCoV-N1-R_reference_genome_NC_045512.2.txt)
-    -The Free Energy of the interaction structure is located on the second line from the bottom if the .txt file (Energy_0:) (eg. line 404 of 2019-nCoV-N1-R_reference_genome_NC_045512.2.txt)
+    - The sequence of the interaction structure is located on the 5th line from the bottom of the .txt file (Seq:) (eg. line 401 of *2019-nCoV-N1-R_reference_genome_NC_045512.2.txt*) 
+    - The structure of the interaction structure in dot-bracket form is located on the 3rd line from the bottom of the .txt file (Result_0:) (eg. line 403 of *2019-nCoV-N1-R_reference_genome_NC_045512.2.txt*)
+    - The Free Energy of the interaction structure is located on the second line from the bottom if the .txt file (Energy_0:) (eg. line 404 of *2019-nCoV-N1-R_reference_genome_NC_045512.2.txt*)
 
 2. the VARNA visualizations of the dot-bracket interaction structures within the folder **\2_VARNA_Structure_Visualization**.
     - The interaction structures are visualized in linear view and the primer sequence is highlighted in red and the expected binding region is highlighted in green.  
-    - The sequence and dot-bracket structure from the DinoKnot output is input into VARNA to get the structure visualizations. 
+    - The sequence (Seq:) and dot-bracket structure (Result_0:) from the DinoKnot output is input into VARNA to get the structure visualizations. 
 
 3. the sequences of the forward and reverse primers of the primer-probe sets investigated in the file **3_SARS-CoV-2_qRT-PCR_primer_sequences.txt**.
 
@@ -52,7 +52,7 @@ Within the folder **\1_Primer_probe_binding_region** contains:
 
 Note: Both folders are organized with sub-folders labelled with the affected primer/probe. 
 - For example, the folder **\1_DinoKnot_Mutations_in_primer_binding_region\2019-nCoV-N1-P** contains the DinoKnot output for the interaction structure of the 2019-nCoV-N1-P probe with the reference genome within the *2019-nCoV-N1-P_reference_genome_NC_045512.2_DNA/DNA.txt* file and the mutated genome within the file *2019-nCoV-N1-P_C28,311T_mutation_DNA/DNA.txt*
-- For example, the folder **2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures\2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures** contains the VARNA interaction structure visualation to the reference genome in the file *2019_nCoV_N1-P.jpg* and the visualization of the mutated genome in the file *2019_nCoV-N1-P_28311C>T.jpg*. 
+- For example, the folder **2_VARNA_Visualization_Mutation_in_primer_binding_region_Structures\2019-nCoV-N1-P** contains the VARNA interaction structure visualation to the reference genome in the file *2019_nCoV_N1-P.jpg* and the visualization of the mutated genome in the file *2019_nCoV-N1-P_28311C>T.jpg*. 
 - The reference genome data is present in each folder to be able to compare the mutation to the reference genome. 
 
 
@@ -82,7 +82,8 @@ Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issue
 
 ## Conference Paper
 
-This folder contains data presented in the IEEE ICHI 2021 conference preceeding paper (preliminary results to our study not presented in the journal article).
+This folder contains data presented in the IEEE ICHI 2021 conference preceeding paper that are not presented in the journal article: https://ieeexplore.ieee.org/document/9565741 
+(The conference paper contains preliminary results to our study).
 
 
 The folder **\GISAID_mutation_Screenshot_hCoV-19_app** contains screenshots of the GISAID hCoV-19-app on the frequency of mutations in the areas surrounding the primer binding regions of the reverse primers, along with the entire genome from the dates July 23, 2020 and March 28 2021. 
