@@ -1,0 +1,19 @@
+The optimal secondary structure of the hetero-dimer in dot-bracket notation with a minimum free energy of -46.40 kcal/mol is given below. "&" separates the two sequences and the two structures
+
+
+Sequence: UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG&GUGAGGACUCGGGAGGUGG
+
+Structure: .......((.((.(((((((((.((.(((((((.((....)).))))))).)).))))))))).)).))...((((((.((.....(((((((..............&))))))))).))))))...  
+
+
+
+
+
+Results have been computed using RNAcofold 2.4.18. An equivalent command line call would have been
+RNAcofold -a -d2 --noLP < sequences.fa > cofold.out
+
+
+Gruber AR, Lorenz R, Bernhart SH, Neuböck R, Hofacker IL.
+The Vienna RNA Websuite. Nucleic Acids Res. 2008
+
+Bernhart SH, Tafer H, Mückstein U, Flamm C, Stadler PF, Hofacker IL "Partition function and base pairing probabilities of RNA heterodimers", Algorithms Mol Biol., Mar 16, 1(1) , 2006

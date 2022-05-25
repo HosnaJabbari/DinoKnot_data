@@ -1,0 +1,18 @@
+The optimal secondary structure in dot-bracket notation with a minimum free energy of -32.30 kcal/mol is given below.
+
+1      UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG
+1      .......((.((.(((((((((.((.(((((((.((....)).))))))).)).))))))))).)).))((((.....((((....))))....)))).........
+
+
+
+Results have been computed using RNAfold 2.4.18. An equivalent command line call would have been
+RNAfold -p -d2 --noLP < sequence1.fa > sequence1.out
+
+
+
+
+Gruber AR, Lorenz R, Bernhart SH, Neuböck R, Hofacker IL.
+The Vienna RNA Websuite. Nucleic Acids Research, Volume 36, Issue suppl_2, 1 July 2008, Pages W70-W74, DOI: 10.1093/nar/gkn188
+
+
+Lorenz, R. and Bernhart, S.H. and Höner zu Siederdissen, C. and Tafer, H. and Flamm, C. and Stadler, P.F. and Hofacker, I.L. "ViennaRNA Package 2.0", Algorithms for Molecular Biology, 6:1 page(s): 26, 2011

@@ -1,0 +1,7 @@
+GGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG" --r "___________________________________________________________________________________________________________"
+method1
+method2
+method3
+method4
+Seq: UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG
+RES: .......[[[.....]]]....[[[[[[[[[[[[..[[[.[[[[[..[[[[[[.[[.[[[.........]]]]].]]]]]].]]]]]]]]]]]]]..]]]]]]]...  -17.57
