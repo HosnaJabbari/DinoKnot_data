@@ -1,0 +1,127 @@
+./computeEnergy -m "DP" -p params/parameters_DP09.txt -s UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG  ".......((((((((((((((([[[[[[[.[[...((((((....))))))...))))))))).)))).))]].]]]]]]].........................."
+-------------------------------
+Reading the Input
+Seq:  UUUAAAAGCCAGGACGGUCACCUUUGGGGUGGUGACAAGUGUGAUCACUUGGGUGGUGGCUGUGUUUGCGUCUCUCCCAGGAAUCAUCUUUACCAGAUCUCAAAAAG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ????????????????????????????????G 
+Size: 107 
+-1 -1 -1 -1 -1 -1 -1 71 70 68 67 66 65 63 62 61 60 59 58 57 56 55 81 80 79 78 77 76 75 -1 73 72 -1 -1 -1 51 50 49 48 47 46 -1 -1 -1 -1 41 40 39 38 37 36 -1 -1 -1 22 21 20 19 18 17 16 15 14 -1 13 12 11 10 -1 9 8 32 31 -1 29 28 27 26 25 24 23 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+-------------------------------
+ Making the Loop Tree
+[8, 81] nested: 0
+.[36, 51] nested: 2
+..[37, 50] nested: 0
+...[38, 49] nested: 0
+....[39, 48] nested: 0
+.....[40, 47] nested: 0
+......[41, 46] nested: 0
+-------------------------------
+0   0 
+1 U 0 
+2 U 0 
+3 U 0 
+4 A 0 
+5 A 0 
+6 A 0 
+7 A 0 
+8 G 71 
+9 C 70 
+10 C 68 
+11 A 67 
+12 G 66 
+13 G 65 
+14 A 63 
+15 C 62 
+16 G 61 
+17 G 60 
+18 U 59 
+19 C 58 
+20 A 57 
+21 C 56 
+22 C 55 
+23 U 81 
+24 U 80 
+25 U 79 
+26 G 78 
+27 G 77 
+28 G 76 
+29 G 75 
+30 U 0 
+31 G 73 
+32 G 72 
+33 U 0 
+34 G 0 
+35 A 0 
+36 C 51 
+37 A 50 
+38 A 49 
+39 G 48 
+40 U 47 
+41 G 46 
+42 U 0 
+43 G 0 
+44 A 0 
+45 U 0 
+46 C 41 
+47 A 40 
+48 C 39 
+49 U 38 
+50 U 37 
+51 G 36 
+52 G 0 
+53 G 0 
+54 U 0 
+55 G 22 
+56 G 21 
+57 U 20 
+58 G 19 
+59 G 18 
+60 C 17 
+61 U 16 
+62 G 15 
+63 U 14 
+64 G 0 
+65 U 13 
+66 U 12 
+67 U 11 
+68 G 10 
+69 C 0 
+70 G 9 
+71 U 8 
+72 C 32 
+73 U 31 
+74 C 0 
+75 U 29 
+76 C 28 
+77 C 27 
+78 C 26 
+79 A 25 
+80 G 24 
+81 G 23 
+82 A 0 
+83 A 0 
+84 U 0 
+85 C 0 
+86 A 0 
+87 U 0 
+88 C 0 
+89 U 0 
+90 U 0 
+91 U 0 
+92 A 0 
+93 C 0 
+94 C 0 
+95 A 0 
+96 G 0 
+97 A 0 
+98 U 0 
+99 C 0 
+100 U 0 
+101 C 0 
+102 A 0 
+103 A 0 
+104 A 0 
+105 A 0 
+106 A 0 
+107 G 0 
+Energy Model   Free Energy (kcal/mol)   Free Energy without Dangling (kcal/mol) 
+--------------------------------------------------------------
+Dirks&Pierce   -18.1151                 -16.7551 
