@@ -79,6 +79,25 @@ Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issue
 
 
 
+### 4. Pseudoknotted Structures
+
+
+Within the folder **\4_Pseudoknotted_Structures** contains: 
+
+
+1. The dot-bracket output structure of the *CCR5* mRNA prior to interaction predicted by Iterative HFold in the file **CCR5_Iterative_HFold.txt**
+
+2. The dot-bracket output structure of the *CCR5* mRNA prior to interaction predicted by RNAfold in the file **CCR5_RNAfold.txt**
+
+3.  the DinoKnot predicted interaction structure of the *CCR5* mRNA and miR-1224 in dot-bracket form in the file **CCR5_miR1224-5p_DinoKnot_output.txt**
+
+4.  the RNAcofold predicted interaction structure of the *CCR5* mRNA and miR-1224 in dot-bracket form in the file **CCR5_miR1224-5p_RNAcofold_output.txt**
+
+5. The energy computed by HotKnots v2.0 with the DP09 parameters of the pseudoknotted structure predicted by Dinoknot prior to interaction in the file **HotKnots_DP09_compute_energy_DinoKnot_pseudoknot_Without_Interaction.txt**
+
+6. The energy computed by HotKnots v2.0 with the DP09 parameters of the pseudoknotted structure proposed by Belew *et al* (2014)  in the file **HotKnots_DP09_compute_energy_pseudoknot_Belew_et_al_2014**
+
+
 
 ## Conference Paper
 
