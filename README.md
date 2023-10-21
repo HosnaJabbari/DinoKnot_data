@@ -30,7 +30,7 @@ This section contains:
 
 ## Comparing DinoKnot to RNAcofold
 
-Within the folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.9h** contains:
+The folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.9h** contains:
 
 1. an Excel Spread Sheet containing the reverse primer along with the sequence input into RNAcofold, the output from RNAcofold of the interaction structure in dot-bracket form, and the MFE in the file **1_RNAcofold_input_output.xlsx**. 
 
@@ -38,6 +38,8 @@ Within the folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.
 
 3. the RNAcofold dot-bracket interaction structures visualized with VARNA in the folder **\3_RNAcofold_terminal_output**.
     - Within this folder the interaction structures are visualized in both linear and nucleic acid view. The primer sequence is highlighted in red and the expected binding region is highlighted in green.  
+
+The folder **\2_Comparing_DinoKnot_to_RNAcofold\Performance_Measures** contains:
 
 4. The output structures of the 109 sRNA and 52 snoRNA interactions are located in **2_Comparing_DinoKnot_to_RNAcofold/Performance_Measures/structure_outputs**
 
@@ -49,7 +51,7 @@ Within the folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.
 
 ### 1. Primer/probe binding region
 
-Within the folder **\1_Primer_probe_binding_region** contains: 
+The folder **\1_Primer_probe_binding_region** contains: 
 
 1. The output interaction structures of the corresponding primer/probe and the mutated SARS-CoV-2 gene area predicted by DinoKnot in dot-bracket form within the folder **\1_DinoKnot_Mutations_in_primer_binding_region**. 
 
@@ -64,13 +66,13 @@ Note: Both folders are organized with sub-folders labelled with the affected pri
 
 ### 2. Variants of Concern
 
-Within the folder **\2_Variants_of_Concern** contains: 
+The folder **\2_Variants_of_Concern** contains: 
 
 1. The interaction structure of the reverse primer and the gene area transcript of the variant of concern with mutations in this area predicted by DinoKnot in dot-bracket form the folder **DinoKnot_Structures**. This folder contains subfolders for each of the variants of concern studied. 
 
 ### 3. Clinical report of variant causing N gene detection issues
 
-Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
+The folder **\3_Clinical_report_of_variant_causing_N gene_detection_issues** contains: 
 
 1. the DinoKnot predicted interaction structure in dot-bracket form of the CCDC-N-F primer with the variant strain (accession ID: EPI_ISL_1061414) in the file **CCDC-N-F_EPI_ISL_1061414_DinoKnot_output.txt**
 
@@ -88,7 +90,7 @@ Within the folder **\3_Clinical_report_of_variant_causing_N gene_detection_issue
 ### 4. Pseudoknotted Structures
 
 
-Within the folder **\4_Pseudoknotted_Structures** contains: 
+The folder **\4_Pseudoknotted_Structures** contains: 
 
 
 1. The dot-bracket output structure of the *CCR5* mRNA prior to interaction predicted by Iterative HFold in the file **CCR5_Iterative_HFold.txt**
