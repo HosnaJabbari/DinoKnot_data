@@ -39,6 +39,12 @@ Within the folder **\2_Comparing_DinoKnot_to_RNAcofold\RNA_cofold_ViennaRNA-2.1.
 3. the RNAcofold dot-bracket interaction structures visualized with VARNA in the folder **\3_RNAcofold_terminal_output**.
     - Within this folder the interaction structures are visualized in both linear and nucleic acid view. The primer sequence is highlighted in red and the expected binding region is highlighted in green.  
 
+4. The output structures of the 109 sRNA and 52 snoRNA interactions are located in **2_Comparing_DinoKnot_to_RNAcofold/Performance_Measures/structure_outputs**
+
+5. The scripts used to convert dot-bracket output to bpseq format and to calculate performance measures of DinoKnot and RNAcofold are located in **2_Comparing_DinoKnot_to_RNAcofold/Performance_Measures/scripts**
+
+6. The performance measure results are located in **2_Comparing_DinoKnot_to_RNAcofold/Performance_Measures/results**
+
 ## Mutations
 
 ### 1. Primer/probe binding region
